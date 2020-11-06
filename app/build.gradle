@@ -37,7 +37,11 @@ dependencies {
     implementation 'androidx.cardview:cardview:1.0.0'
     implementation 'com.klinkerapps:searchview:2.2.5'
     implementation 'com.google.android.material:material:1.2.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    //implementation 'com.gauravk.bubblenavigation:bubblenavigation:1.0.7'//bottom navigation bar
+    implementation 'com.github.ibrahimsn98:SmoothBottomBar:1.7'
 }

@@ -36,7 +36,7 @@
               <TextView
                   android:layout_width="match_parent"
                   android:layout_height="wrap_content"
-                  android:text="Kỹ sư thiết kế hệ thống điện có kình nghiệm..."
+                  android:text="Dạy kèm nữ sinh 18 tuổi"
                   android:textSize="19sp"/>
               <LinearLayout
                   android:layout_width="match_parent"
